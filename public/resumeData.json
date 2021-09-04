@@ -1,0 +1,163 @@
+{
+  "main": {
+    "name": "Akkas Singh",
+    "occupation": "Software Engineer",
+    "description": "",
+    "image": "akkas_singh.jpeg",
+    "bio": "I am a foodie at heart, with a logical spirit, a knack for technology, and a passion for coding. Currently working as a full stack developer for Boston Consulting Group.Outside of work I am an avid cinephile, football enthusiast. I love to travel and really want to go around the world.",
+    "contactmessage": "Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "akkassingh@gmail.com",
+    "phone": "+91 8802966359",
+    "address": {
+      "city": "New Delhi",
+      "state": "India",
+      "zip": "110034"
+    },
+    "website": "http://www.akkassingh.me",
+    "resumedownload": "https://drive.google.com/file/d/1511FNr6TWztf_mnblHqoUgMBO3tllxIm/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/akkassingh/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/akkassingh/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/akkassingh",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "degree": "Bachelor in Technology",
+        "graduated": "April 2016",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "certifications": [
+      {
+        "organization": "AWS",
+        "name": "AWS Certified Cloud Practitioner",
+        "awarded": "April 2021",
+        "credential": "https://www.credly.com/badges/04b95df4-5f88-4d56-b340-ea16bd1a3ac9?source=linked_in_profile"
+      },
+      {
+        "organization": "Scrum Alliance",
+        "name": "Certified ScrumMaster® (CSM®)",
+        "awarded": "March 2020",
+        "credential": "http://bcert.me/stfflezid"
+      },
+      {
+        "organization": "Scrum Alliance",
+        "name": "Advanced Certified ScrumMaster",
+        "awarded": "March 2021",
+        "credential": "https://bcert.me/smfxtnluz"
+      },
+      {
+        "organization": "Scrum Alliance",
+        "name": "Certified Scrum Professional®-ScrumMaster",
+        "awarded": "May 2021",
+        "credential": "https://bcert.me/symjxjhjo"
+      },
+      {
+        "organization": "Scaled Agile, Inc.",
+        "name": "Certified SAFe® 5 Agilist",
+        "awarded": "May 2021",
+        "credential": "https://www.youracclaim.com/badges/923b5e53-c49a-4d6d-ba4e-e88fb8647e74?source=linked_in_profile"
+      }
+    ],
+    "work": [
+      {
+        "company": "Boston Consulting Group",
+        "title": "Software Engineer ",
+        "years": "Sept 2019 - Sept 2021",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "paisabazaar.com",
+        "title": "Software Developer",
+        "years": "Jan 2019 - Aug 2019",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "HCL Technologies",
+        "title": "Senior Analyst",
+        "years": "Aug 2016 - Jan 2019",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  }
+}
