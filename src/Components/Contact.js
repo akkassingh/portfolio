@@ -11,6 +11,7 @@ class Contact extends Component {
       var phone= this.props.data.phone;
       var email = this.props.data.email;
       var message = this.props.data.contactmessage;
+      var contactMe= "images/"+this.props.data.contactQR;
     }
 
     return (
@@ -82,7 +83,8 @@ class Contact extends Component {
 						   {name}<br />
 						   {city}, {state} {zip}<br />
 						   <span>{phone}</span><br />
-                     <span>{email}</span>
+                     <span>{email}</span><br />
+                     <img src={contactMe} alt="Contact Akkas"></img>
 					   </p>
 				   </div>
             </aside>
